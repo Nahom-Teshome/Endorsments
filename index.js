@@ -5,18 +5,14 @@
 //import {getDatabase,ref,push, onValue, remove} from "https://www.gstatic.com/firebasejs/10.12.2/firebase-app.js";
 
 // const appSetings = {
-//     databaseUrl: "https://endorsements-3c53d-default-rtdb.europe-west1.firebasedatabase.app/"
+// 
 // }
 // const app = initializeApp(appSetings)
 
 // const firebaseApp = initializeApp({
-//     apiKey: "AIzaSyAaYmd9IUzsOhG5MZyLEnV_D9tURrsMteI",
-//     authDomain: "endorsements-3c53d.firebaseapp.com",
-//     databaseURL: "https://endorsements-3c53d-default-rtdb.europe-west1.firebasedatabase.app",
-//     projectId: "endorsements-3c53d",
-//     storageBucket: "endorsements-3c53d.appspot.com",
-//     messagingSenderId: "935311163572",
-//     appId: "1:935311163572:web:7bedda6a68206ace8e17e1"
+//   
+//   firebasedatabase.app",
+//   
 //   });
 
 // console.log(firebaseApp);
